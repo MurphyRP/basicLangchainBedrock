@@ -1,0 +1,6 @@
+langchain==0.3.24
+langchain-aws==0.2.21
+langchain-community==0.3.22
+langchain-core==0.3.55
+boto3>=1.35.0
+python-dotenv>=1.0.0
